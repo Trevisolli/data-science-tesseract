@@ -25,20 +25,8 @@ Irei disponibilizar aqui os exercícios resolvidos e novas pesquisas que fazem r
 
 Sugestões de melhoria, são sempre bem vindas!
 
-## Exercícios Complementares Introdutórios
-Pasta: <a href="https://github.com/Trevisolli/data-science/tree/master/01-Introdu%C3%A7%C3%A3o%20%C3%A0%20Estat%C3%ADstica%20e%20Linguagem%20R"> 01-Introdução à Estatística e Linguagem R </a>
+## Arquivos
 
-### <a href="https://github.com/Trevisolli/data-science/blob/master/01-Introdu%C3%A7%C3%A3o%20%C3%A0%20Estat%C3%ADstica%20e%20Linguagem%20R/Exercicio%20Complementar%2001.R">Exercício 01 </a>
+### <a href="https://github.com/Trevisolli/data-science-tesseract/blob/master/Python/Scripts/webscraping_download_pdf.py)"> Web Scraping e Download de PDF </a>
 
-Consiste em uma base de dados, com 50 observações de renda, onde o objetivo de sua resolução é:
-
-1) Realizar o agrupamento por faixas de renda pré-determinadas, classificando os correntistas por faixas de renda;
-2) Criar a tabela de frequência;
-
-
-### <a href="https://github.com/Trevisolli/data-science/blob/master/01-Introdu%C3%A7%C3%A3o%20%C3%A0%20Estat%C3%ADstica%20e%20Linguagem%20R/Exercicio%20Complementar%2002.R">Exercício 02 </a>
-
-Com uma base de dados que consta o retorno de duas ações no mercado financeiro, calcule as estatísticas descritivas para as duas variáveis, incluindo o coeficiente de correlação entre os retornos.
-
-
-
+Exercício desenvolvido utilizando linguagem Python e bibliotecas para raspagem e download de arquivos PDF de determinado site.
