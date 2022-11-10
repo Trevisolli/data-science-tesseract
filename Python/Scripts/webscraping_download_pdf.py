@@ -27,15 +27,15 @@ def download_documents(downloads_list):
         for downloads in downloads_list:
             print(downloads)
             file_name = downloads[downloads.find('=')+1:]+'.pdf'
-            #save_downloaded_document(downloads,downloads_folder,file_name)
+            save_downloaded_document(downloads,downloads_folder,file_name)
             total_documents+=1
             print('-'*len(downloads))
     else:
         print("No documents available for download.")
     return total_documents
 
-
-downloads_folder = './reports/' 
+#\Python\Scripts\reports
+downloads_folder = './Scripts/reports/' 
 url_to_scrape = "https://www.portodesantos.com.br/informacoes-operacionais/estatisticas/mensario-estatistico/"
 html_document = get_html_document(url_to_scrape) 
 soup = BeautifulSoup(html_document, 'html.parser') 
