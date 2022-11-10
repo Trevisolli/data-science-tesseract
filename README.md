@@ -3,7 +3,7 @@ Curso de ciência de dados (2022/2023)
 
 
 <p align="center">
-  <img width="140" src="https://github.com/Trevisolli/data-science/blob/master/01-Introdu%C3%A7%C3%A3o%20%C3%A0%20Estat%C3%ADstica%20e%20Linguagem%20R/imagens/mbausplogo.png"/>  
+  <img width="140" src="https://github.com/Trevisolli/data-science-tesseract/blob/master/Python/images/Tesseract.png"/>  
   <h2 align="center">Data Science</h2>
   
    
@@ -16,7 +16,7 @@ Curso de ciência de dados (2022/2023)
   
   
   <p align="center">Repositório criado para manter e compartilhar objetos criados durante o curso de Data Science da Escola de Dados <a href="https://www.explicami.com.br">Tesseract</a></p> 
-  <p align="center"><b>(Turma 2022-2)</b></p>
+  <p align="center"><b>(Turma 2022-1)</b></p>
 </p>
 
 
