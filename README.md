@@ -1,10 +1,6 @@
-# data-science-tesseract
-Curso de ciência de dados (2022/2023)
-
-
 <p align="center">
   <img width="140" src="https://github.com/Trevisolli/data-science-tesseract/blob/master/Python/images/Tesseract.png"/>  
-  <h2 align="center">Data Science</h2>
+  <h2 align="center">Curso de Data Science</h2>
   
    
   <p align="center">
