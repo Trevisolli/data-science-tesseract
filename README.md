@@ -11,7 +11,7 @@
 <p>
   
   
-  <p align="center">Repositório criado para manter e compartilhar objetos criados durante o curso de Data Science da Escola de Dados <a href="https://www.explicami.com.br">Tesseract</a></p> 
+  <p align="center">Repositório criado para manter e compartilhar objetos criados durante o curso de Data Science da <b>Escola de Dados <a href="https://www.explicami.com.br">Tesseract</a></b></p> 
   <p align="center"><b>(Turma 2022-1)</b></p>
 </p>
 
