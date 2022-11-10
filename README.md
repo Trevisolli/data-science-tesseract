@@ -27,6 +27,6 @@ Sugestões de melhoria, são sempre bem vindas!
 
 ## Arquivos
 
-### <a href="https://github.com/Trevisolli/data-science-tesseract/blob/master/Python/Scripts/webscraping_download_pdf.py)"> Web Scraping e Download de PDF </a>
+### <a href="https://github.com/Trevisolli/data-science-tesseract/blob/master/Python/Scripts/webscraping_download_pdf.py"> Web Scraping e Download de PDF </a>
 
 Exercício desenvolvido utilizando linguagem Python e bibliotecas para raspagem e download de arquivos PDF de determinado site.
