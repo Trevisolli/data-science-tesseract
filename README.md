@@ -1,5 +1,7 @@
 <p align="center">
-  <img width="140" src="https://github.com/Trevisolli/data-science-tesseract/blob/master/Python/images/Tesseract.png"/>  
+  <a href="https://www.explicami.com.br">
+    <img width="140" src="https://github.com/Trevisolli/data-science-tesseract/blob/master/Python/images/Tesseract.png"/>  
+  </a>  
   <h2 align="center">Curso de Data Science</h2>
   
    
